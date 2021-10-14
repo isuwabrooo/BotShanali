@@ -87,7 +87,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![BADBMODER](https://github.com/BADBMODER.png?size=100)](https://github.com/BADBMODER) 
+  [[![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) 
 
 [BADBMODER](https://github.com/BADBMODER)
 
