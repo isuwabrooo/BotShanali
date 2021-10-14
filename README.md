@@ -4,14 +4,14 @@
 <div align="center">
   <img border-radius: 15px src="BotShanali.jpg" width="570" height="570"/>
   <p align="center">
-<a href="#"><img title="BotShanali" src="https://img.shields.io/badge/BADBMODER-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BotShanali" src="https://img.shields.io/badge/isuwabrooo-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BADBMODER"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/isuwabrooo"><img title="Author" src="https://img.shields.io/badge/Author-isuwabrooo/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make it public
+Project created by <a href="https://github.com/isuwabrooo">isuwabrooo</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/BADBMODER/Badboy ">
-    <img src="https://img.shields.io/github/repo-size/BADBMODER/Badboy?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/isuwabrooo/Badboy ">
+    <img src="https://img.shields.io/github/repo-size/isuwabrooo/Badboy?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/BADBMODER/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBMODER?color=red&style=flat-circle"></a>
-<a href="https://github.com/BADBMODER/Badboy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBMODER/Badboy?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/isuwabrooo/followers"><img title="Followers" src="https://img.shields.io/github/followers/isuwabrooo?color=red&style=flat-circle"></a>
+<a href="https://github.com/isuwabrooo/Badboy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/isuwabrooo/Badboy?color=red&style=flat-square"></a>
+<a href="https://github.com/isuwabrooo/Badboy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/isuwabrooo/Badboy?color=red&style=flat-square"></a>
+<a href="https://github.com/isuwabrooo/Badboy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/isuwabrooo/Badboy?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
@@ -56,7 +56,7 @@ the user is responsible.
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/Badboy)
      </div>
 <br>
 <br >
@@ -89,7 +89,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [[![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) 
 
-[BADBMODER](https://github.com/BADBMODER)
+[isuwabrooo](https://github.com/isuwabrooo)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
