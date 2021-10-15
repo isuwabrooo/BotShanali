@@ -17,7 +17,7 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "only english language is available",
+            "description": "only english language is available සිංහල",
             "required": true,
             "value": "en"
         },
@@ -49,7 +49,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "KING ISUWA"
         },    
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
