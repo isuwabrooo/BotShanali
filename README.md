@@ -4,17 +4,17 @@
 <div align="center">
   <img border-radius: 15px src="BotShanali.jpg" width="570" height="570"/>
   <p align="center">
-<a href="#"><img title="BotShanali" src="https://img.shields.io/badge/isuwabrooo-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="###"><img title="BotShanali" src="https://img.shields.io/badge/isuwabrooo-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-  <p align="center">
-<a href="https://github.com/isuwabrooo"><img title="Author" src="https://img.shields.io/badge/Author-isuwabrooo/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+ <p align="center">
+<a href="https://github.com/isuwabrooo"><img title="Author" src="https://img.shields.io/badge/Author-isuwabrooo/BotShanali?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/isuwabrooo">isuwabrooo</a> to make it public
+ Project created by <a href="https://github.com/isuwabrooo">isuwabrooo</a> to make it public
     <br>
        | © |
-        Reserved |
+                Reserved |
     <br> 
 </p>
 
@@ -56,7 +56,7 @@ the user is responsible.
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
      </div>
 <br>
 <br >
@@ -84,11 +84,13 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
   
-## Developers
+#### Developers
   <div align="center">
     
   [[![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) 
-
+    
+<a href="###"><img title="BotShanali" src="https://img.shields.io/badge/isuwabrooo-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+    
 [isuwabrooo](https://github.com/isuwabrooo)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
